@@ -9,7 +9,6 @@ This script is intended for legal and responsible usage. Ensure that you have th
 
 **Warning:** Downloading or sharing copyrighted material without permission may violate the law in your country. The author of this script is not responsible for any misuse or illegal activities conducted using this software.
 
-## Requirements
 
 
 ## Installation
