@@ -8,8 +8,8 @@
 1. Clone the repository: `git clone https://github.com/rasmod/Simplaza-Scraper.git`
 2. Navigate to the project directory: `cd Simplaza-Scraper`
 3. Install dependencies: `pip install -r requirements.txt`
-
+4.The Files are saved under `Downloads\Simplaza_torrents`
 ## Usage
 
 1.Run the script: `python sp_scraper.py`
-2.The Files are saved under "Downloads\Simplaza_torrents"
+The Files are saved under "Downloads\Simplaza_torrents"
