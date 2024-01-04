@@ -12,3 +12,4 @@
 ## Usage
 
 Run the script: `python sp_scraper.py`
+The Files are saved under "Downloads\Simplaza_torrents"
