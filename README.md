@@ -11,5 +11,5 @@
 
 ## Usage
 
-Run the script: `python sp_scraper.py`
-The Files are saved under "Downloads\Simplaza_torrents"
+1.Run the script: `python sp_scraper.py`
+2.The Files are saved under "Downloads\Simplaza_torrents"
