@@ -3,6 +3,15 @@
 - Python 3.6+
 - Pip (Python package installer)
 
+## Disclaimer
+
+This script is intended for legal and responsible usage. Ensure that you have the right to download and share the content you are accessing through this script. Be aware of copyright laws and respect intellectual property rights.
+
+**Warning:** Downloading or sharing copyrighted material without permission may violate the law in your country. The author of this script is not responsible for any misuse or illegal activities conducted using this software.
+
+## Requirements
+
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/rasmod/Simplaza-Scraper.git`
